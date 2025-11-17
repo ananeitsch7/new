@@ -1,7 +1,7 @@
 # PACMINION
 ESSA OBRA MODIFICA UMA OUTRA OBRA JÁ CRIADA, A OBRA ORIGINAL É DE AUTORIA DE "David Reilly"
 
-O que foi modificado: Este jogo tem a tematica dos minions, com os fantasmas todos roxos, e o visual com olhos do minions no personagem principal, além disso, as frutinhas do jogo, foram todas modificadas para apenas bananas.
+O que foi modificado: Este jogo tem a temática dos minions, com os fantasmas todos roxos, e o visual com olhos dos minions no personagem principal, além disso, as frutinhas do jogo foram todas modificadas para apenas bananas coloridas.
 
 # Obra Original
 Link da obra original: https://github.com/greyblue9/pacman-python
@@ -13,18 +13,16 @@ Leticia Vitória Kovalik
 Luana Fadani
 
 # Documento da nossa experiência
-Link: https: https://docs.google.com/document/d/1OmPujT9O9A_Uji7EhVSSrLlqsZawJXuvyNdy5g1DTNQ/edit?usp=sharing
+Link: https://docs.google.com/document/d/1OmPujT9O9A_Uji7EhVSSrLlqsZawJXuvyNdy5g1DTNQ/edit?usp=sharing
 
 # Como instalar o PacMinion
 Entre no repositório do PacMinion no GitHub.
 Clique em Code > Download ZIP.
 Quando o download terminar, extraia (descompacte) o ZIP.
 
-Baixe em code.visualstudio.com.
-Instale normalmente.
-Quando abrir o VSCode pela primeira vez, ele pode sugerir instalar a extensão Python — aceite.
+Instale normalmente o VSCode.
+Quando abrir o VSCode pela primeira vez, ele pode sugerir (no canto inferior direito, na aba "dicas") instalar a extensão Python — aceite.
 
-Abra o VSCode.
 Clique em File (Arquivo) > Open Folder (Abrir Pasta).
 Escolha a pasta PacMinion (a pasta extraída).
 Clique em Select Folder (Selecionar Pasta).
