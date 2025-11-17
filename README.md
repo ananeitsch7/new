@@ -24,12 +24,12 @@ Instale normalmente o VSCode.
 Quando abrir o VSCode pela primeira vez, ele pode sugerir (no canto inferior direito, na aba "dicas") instalar a extensão Python — aceite.
 
 Clique em File (Arquivo) > Open Folder (Abrir Pasta).
-Escolha a pasta PacMinion (a pasta extraída).
+Escolha a pasta "new" (a pasta extraída).
 Clique em Select Folder (Selecionar Pasta).
 
 Para instalar Pygame, abra o terminal do VSCode:
 Vá em Terminal > New Terminal.
-Digite: pip install pygame
+Digite no terminal: pip install pygame
 Dentro do VSCode:
 Localize o arquivo principal do jogo: pacman.pyw.
 Clique nele para abrir.
@@ -50,9 +50,9 @@ Use as setas do teclado:
 
 → direita
 
-Objetivo do jogo: Comer todas as bolinhas pequenas no labirinto. Se conseguir coletar todas, você vence a fase.
+Objetivo do jogo: Comer todas as bolinhas pequenas (brancas) no labirinto. Se conseguir coletar todas, você vence a fase.
 
-Fantasmas roxos: eles te perseguem. Se um fantasma te encostar, você perde uma vida.
+Fantasmas roxos: eles te perseguem. Você tem 3 vidas, se um fantasma te encostar, você perde uma vida.
 
 Bolinhas maiores (Power Pellets): Sempre tem algumas bolinhas grandes no mapa.
 
