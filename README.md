@@ -58,8 +58,8 @@ Bolinhas maiores (Power Pellets): Sempre tem algumas bolinhas grandes no mapa.
 
 Quando você pega uma: O Minion fica poderoso por alguns segundos. Nesse tempo, os fantasmas não te matam. Se você encostar neles, eles voltam para a casinha (a base). Depois de alguns segundos, o poder acaba e o perigo volta ao normal.
 
-# Video-explicação das mudanças e como instalar
-Link: 
+# Video-explicação das mudanças
+Link: https://youtu.be/WWG3zaoePFA?si=hikp3ja69FC91CUa
 
 # Video manual sobre como jogar
 Link: https://www.youtube.com/watch?v=Jf3f5Xla78o
